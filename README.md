@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dulon18
+- 👋 Hi, I’m Dulon
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python & Flask
 - 📫 How to reach me -> dulon.iubat@gmail.com
