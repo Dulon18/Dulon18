@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dulon18
-- 👀 I’m interested in web devoloping 
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning python & Flask
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
