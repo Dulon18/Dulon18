@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Dulon18
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python & Flask
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me -> dulon.iubat@gmail.com
 
 <!---
 Dulon18/Dulon18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
