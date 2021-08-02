@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dulon
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python & Flask
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning python & Machine Learning 
 - 📫 How to reach me -> dulon.iubat@gmail.com
 
 <!---
