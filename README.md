@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Dulon
+- 👩 I am a software Engineer
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning python & Machine Learning 
 - 📫 How to reach me -> dulon.iubat@gmail.com
