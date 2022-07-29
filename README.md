@@ -5,12 +5,6 @@
 
 <img align="right" alt="Coding" width="200" src="https://static.wixstatic.com/media/75b3da_1ee1c9c2c05643a1a8ae4c5277ed7f86~mv2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulon18&label=Profile%20views&color=0e75b6&style=flat" alt="dulon18" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulon18" alt="dulon18" /></a> </p>
-
-
-
 - 🌱 I’m currently learning **VueJS**
 
 - 📫 How to reach me **dulon.iubat@gmail.com**
@@ -29,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulon18&show_icons=true&locale=en" alt="dulon18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulon18&" alt="dulon18" /></p>
+
