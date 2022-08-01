@@ -15,12 +15,12 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/momotajur-rahman-dulan-372441187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/momotajur-rahman-dulan-372441187/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/dulon/" target="blank">
+<a href="https://leetcode.com/Dulon/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dulon/" height="30" width="40" />
 </a>
 <a href="https://www.beecrowd.com.br/judge/en/profile/263043" target="blank">
 <img align="center" src="https://user-images.githubusercontent.com/80118217/182170124-b6e845a1-a252-40d9-8c60-8092911c4649.png"
-alt="https://leetcode.com/dulon/" height="30" width="40" />
+ height="30" width="40" />
 </a>
 
 </p>
