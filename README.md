@@ -4,7 +4,8 @@
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="200" src="https://static.wixstatic.com/media/75b3da_1ee1c9c2c05643a1a8ae4c5277ed7f86~mv2.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulon18&label=Profile%20views&color=0e75b6&style=flat" alt="dulon18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulon18&label=Profile%20views&color=0e75b6&style=flat" alt="dulon18" /> 
+</p>
 
 - 🌱 I’m currently learning  **VueJS**
 
@@ -14,6 +15,14 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/momotajur-rahman-dulan-372441187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/momotajur-rahman-dulan-372441187/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/dulon/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dulon/" height="30" width="40" />
+</a>
+<a href="https://www.beecrowd.com.br/judge/en/profile/263043" target="blank">
+<img align="center" src="https://user-images.githubusercontent.com/80118217/182170124-b6e845a1-a252-40d9-8c60-8092911c4649.png"
+alt="https://leetcode.com/dulon/" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
