@@ -1,5 +1,5 @@
 
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://github.com/Dulon18)
+[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)](https://github.com/Dulon18)
 <h1 align="center">Hi 👋, I'm Momotajur Rahman Dulan</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
