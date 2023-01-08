@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulon18&label=Profile%20views&color=0e75b6&style=flat" alt="dulon18" /> 
 </p>
 
-- ☺ I’m currently learning  **VueJS**
+- ☺ I’m currently learning  **Testing**
 
 - 📫 How to reach me **dulon.iubat@gmail.com**
 
