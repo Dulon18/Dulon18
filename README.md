@@ -1,7 +1,7 @@
 
 [![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)](https://github.com/Dulon18)
 <h1 align="center">Hi 👋, I'm Momotajur Rahman Dulan</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh 🇧🇩 </h3>
+<h3 align="center">A Passionate Software Engineer from Bangladesh 🇧🇩 </h3>
 
 <img align="right" alt="Coding" width="200" src="https://static.wixstatic.com/media/75b3da_1ee1c9c2c05643a1a8ae4c5277ed7f86~mv2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulon18&label=Profile%20views&color=0e75b6&style=flat" alt="dulon18" /> 
