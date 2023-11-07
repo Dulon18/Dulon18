@@ -9,7 +9,7 @@
 
 <!-- - ☺ I’m currently learning  **Testing** -->
 
-- 📫 How to reach me **dulon.iubat@gmail.com**
+- 📫 How to reach me **dulon587@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
